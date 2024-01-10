@@ -21,6 +21,9 @@ body {
         z-index: 1;
        
     }
+.navbar-toggler-icon{
+    background-color: lightblue;
+  }
     .btn:hover{
       background: linear-gradient(lightblue, skyblue);
       color: #191970;
